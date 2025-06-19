@@ -1,0 +1,10 @@
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/libasync_process-8bb7b205793d1403.rmeta: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/unix.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/mod.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/signal.rs
+
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/libasync_process-8bb7b205793d1403.rlib: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/unix.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/mod.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/signal.rs
+
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/async_process-8bb7b205793d1403.d: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/unix.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/mod.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/signal.rs
+
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/lib.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/unix.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/mod.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-process-2.3.1/src/reaper/signal.rs:

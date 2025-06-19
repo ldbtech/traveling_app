@@ -7,7 +7,7 @@ use actix_web::{web, App, HttpServer};
 // Now, import your custom modules from your *library crate*.
 // The name 'amadeus_travel_app' should match the 'name' field in your Cargo.toml
 // under the `[package]` section.
-use crate::handlers; 
+use travel_data_aggregator::handlers;
 // If your handlers (or other parts of main) directly use types like
 // AmadeusAuthenticator, AmadeusApiClient, or TravelSearchQuery, you'd import them like this:
 // use amadeus_travel_app::amadeus_auth::AmadeusAuthenticator;

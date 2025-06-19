@@ -1,0 +1,11 @@
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/libsocket2-0acda4878bebf284.rmeta: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/libsocket2-0acda4878bebf284.rlib: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/alidaho/Documents/Flikor/travel_adv/backend/travel_data_aggregator/target/debug/deps/socket2-0acda4878bebf284.d: /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs:
+/Users/alidaho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/unix.rs:

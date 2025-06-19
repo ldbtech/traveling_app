@@ -152,7 +152,7 @@ impl AmadeusAuthenticator {
 #[cfg(test)] // This module is only compiled when running tests
 mod tests {
     use super::*; // Import everything from the parent module
-    use httpmock::prelude::*; // For mocking HTTP requests
+    use httpmock::{MockServer, Mock};
     use tokio; // For async tests
 
     // Test for AmadeusToken::new and is_expired

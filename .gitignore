@@ -1,0 +1,40 @@
+# Rust
+/target/
+/Cargo.lock  # Generally commit this for applications, uncomment if it's a library
+# if you explicitly want to ignore it for a library or for some specific reason, but for applications it ensures reproducible builds.
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
+ehthumbs.db
+.Trash-* # macOS
+desktop.ini # Windows
+
+# IDE and Editor Files
+.idea/ # IntelliJ IDEA / CLion
+.vscode/ # VS Code settings
+*.sublime-project
+*.sublime-workspace
+*.swp # Vim swap files
+*~ # Emacs backup files
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+/db.sqlite3 # Common for Django/Python, good general ignore
+/data.db # Common for other app databases
+
+# Test and temporary files
+/tmp/
+*.tmp
+*.bak
+*.orig
+/coverage/ # Code coverage reports
+/results/ # Test results, if generated in a specific directory
+/build/ # Generic build directory, if any non-cargo specific ones are created
