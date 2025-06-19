@@ -8,7 +8,7 @@ use std::sync::Arc;
 use reqwest::{Client, Error};
 // Don't forget to add this to Cargo.toml if you haven't:
 // url_encoded_data = "0.5"
-use url_encoded_data::UrlEncodedData; // Make sure this is imported
+ // Make sure this is imported
 
 #[derive(Debug, Deserialize, Clone)]
 pub struct AccessTokenResponse {

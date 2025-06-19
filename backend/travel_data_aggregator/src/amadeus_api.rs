@@ -2,7 +2,6 @@
 
 use crate::amadeus_auth::AmadeusAuthenticator;
 use serde::Deserialize;
-use reqwest::Error;
 use std::sync::Arc;
 
 // Example response struct for Flight Check-in Links API
